@@ -1,0 +1,150 @@
+Country_ID,Country name
+c001,Finland
+c002,Denmark
+c003,Switzerland
+c004,Iceland
+c005,Netherlands
+c006,Norway
+c007,Sweden
+c008,Luxembourg
+c009,New Zealand
+c010,Austria
+c011,Australia
+c012,Israel
+c013,Germany
+c014,Canada
+c015,Ireland
+c016,Costa Rica
+c017,United Kingdom
+c018,Czech Republic
+c019,United States
+c020,Belgium
+c021,France
+c022,Bahrain
+c023,Malta
+c024,Taiwan Province of China
+c025,United Arab Emirates
+c026,Saudi Arabia
+c027,Spain
+c028,Italy
+c029,Slovenia
+c030,Guatemala
+c031,Uruguay
+c032,Singapore
+c033,Kosovo
+c034,Slovakia
+c035,Brazil
+c036,Mexico
+c037,Jamaica
+c038,Lithuania
+c039,Cyprus
+c040,Estonia
+c041,Panama
+c042,Uzbekistan
+c043,Chile
+c044,Poland
+c045,Kazakhstan
+c046,Romania
+c047,Kuwait
+c048,Serbia
+c049,El Salvador
+c050,Mauritius
+c051,Latvia
+c052,Colombia
+c053,Hungary
+c054,Thailand
+c055,Nicaragua
+c056,Japan
+c057,Argentina
+c058,Portugal
+c059,Honduras
+c060,Croatia
+c061,Philippines
+c062,South Korea
+c063,Peru
+c064,Bosnia and Herzegovina
+c065,Moldova
+c066,Ecuador
+c067,Kyrgyzstan
+c068,Greece
+c069,Bolivia
+c070,Mongolia
+c071,Paraguay
+c072,Montenegro
+c073,Dominican Republic
+c074,North Cyprus
+c075,Belarus
+c076,Russia
+c077,Hong Kong S.A.R. of China
+c078,Tajikistan
+c079,Vietnam
+c080,Libya
+c081,Malaysia
+c082,Indonesia
+c083,Congo (Brazzaville)
+c084,China
+c085,Ivory Coast
+c086,Armenia
+c087,Nepal
+c088,Bulgaria
+c089,Maldives
+c090,Azerbaijan
+c091,Cameroon
+c092,Senegal
+c093,Albania
+c094,North Macedonia
+c095,Ghana
+c096,Niger
+c097,Turkmenistan
+c098,Gambia
+c099,Benin
+c100,Laos
+c101,Bangladesh
+c102,Guinea
+c103,South Africa
+c104,Turkey
+c105,Pakistan
+c106,Morocco
+c107,Venezuela
+c108,Georgia
+c109,Algeria
+c110,Ukraine
+c111,Iraq
+c112,Gabon
+c113,Burkina Faso
+c114,Cambodia
+c115,Mozambique
+c116,Nigeria
+c117,Mali
+c118,Iran
+c119,Uganda
+c120,Liberia
+c121,Kenya
+c122,Tunisia
+c123,Lebanon
+c124,Namibia
+c125,Palestinian Territories
+c126,Myanmar
+c127,Jordan
+c128,Chad
+c129,Sri Lanka
+c130,Swaziland
+c131,Comoros
+c132,Egypt
+c133,Ethiopia
+c134,Mauritania
+c135,Madagascar
+c136,Togo
+c137,Zambia
+c138,Sierra Leone
+c139,India
+c140,Burundi
+c141,Yemen
+c142,Tanzania
+c143,Haiti
+c144,Malawi
+c145,Lesotho
+c146,Botswana
+c147,Rwanda
+c148,Zimbabwe
+c149,Afghanistan
