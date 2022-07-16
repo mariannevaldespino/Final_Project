@@ -33,5 +33,5 @@ For Linear Regression:
 For Decicision Tree:
 - social support and then healthy life expectancy  were found to be the variables of greatest impact, with an accuracy of .9981
 
-Random Forest 
+For Random Forest:
 - Like decision tree social support followed by healthy expectancy as the most impactful variable. The accuracy was measured at .9983
